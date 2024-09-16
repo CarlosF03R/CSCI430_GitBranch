@@ -1,0 +1,5 @@
+In class we discussed 
+1. git checkout to branch [switch to the branch you want]
+    changes, and commit
+2. git push -u origin name_of_branch
+    create a pull request
